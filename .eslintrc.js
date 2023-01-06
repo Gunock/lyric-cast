@@ -22,6 +22,7 @@ module.exports = {
       ignoreUrls: true,
     }],
     'vue/multi-word-component-names': 'off',
+    'linebreak-style': ['warn', 'windows'],
   },
   settings: {
     'import/resolver': {
