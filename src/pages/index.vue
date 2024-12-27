@@ -147,7 +147,7 @@ onMounted(() => {
         I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any
         changes by posting the new Privacy Policy on this page.
       </p>
-      <p>This policy is effective as of 2023-01-01</p>
+      <p>This policy is effective as of 2024-12-01</p>
 
       <h3>Contact Us</h3>
       <p>
